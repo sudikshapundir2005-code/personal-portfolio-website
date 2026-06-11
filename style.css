@@ -102,3 +102,9 @@ footer
         color:white;
         padding:20px;
 }
+.profile-img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+}
